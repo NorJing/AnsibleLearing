@@ -1,0 +1,4 @@
+---
+vcenter_address: 10.0.0.1
+username: user@vsphere.local
+password: pass
