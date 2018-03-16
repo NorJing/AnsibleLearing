@@ -1,3 +1,4 @@
+# require pyvmomi
 ---
 - hosts: localhost
   name: Clone VM
