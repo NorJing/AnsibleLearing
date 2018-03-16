@@ -1,0 +1,21 @@
+---
+cluster: 
+resource_pool: ""
+folder: 
+template: RHEL72
+puppet_master_fqdn: 
+datacenter:
+datastore: 
+domain_prefix: 
+domain: ""
+puppet_environment: test
+vm_hostname: 
+vm_ip: 
+vm_netmask: 
+vm_gateway: 
+networks: 
+vm_disk_size_gb: 80
+vm_num_cpus: 4
+vm_memory_mb: 4096
+DNS1: 10.0.0.2
+DNS2: 10.0.0.3
